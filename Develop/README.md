@@ -7,6 +7,8 @@
   ## Table of Contents
   ### * [License](#license)
   ### * [Installation](#installation)
+  ### * [Example](#Example)
+  ### * [Requirements](#requirements)
   ### * [Usage](#usage)
   ### * [Contributers](#contributers)
   ### * [Tests](#tests)
@@ -14,10 +16,16 @@
 
   ## Installation:
   ### The following is required to run this app:
-  ### npm install
+
+  ## Example:
+  [Testing ReadMe Generator - Jeremy Jarvis.webm](https://github.com/astrodog5150/Personal-README-Generator/assets/134658598/632a6922-87fb-4ccc-b8b3-c6d67c4f0392)
+ 
+
+  ## Requirements:
+  ### Inquirer 8.2.4
 
   ## Usage:
-  ### run node index.js in terminal, and answer prompts
+  ### Javascript, Markdown, Node, JSON
 
   ## Contributers:
   ### N/A
